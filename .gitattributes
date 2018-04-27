@@ -1,2 +1,2 @@
-$ cat .gitattributes
-*.rb linguist-language=php
+* linguist-vendored
+*.php linguist-vendored=false
